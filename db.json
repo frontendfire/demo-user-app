@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "a dude",
+      "id": 1
+    },
+    {
+      "name": "dude dudeman",
+      "id": 2
+    },
+    {
+      "name": "some dude",
+      "id": 3
+    },
+    {
+      "name": "ok dude",
+      "id": 4
+    },
+    {
+      "name": "dudette",
+      "id": 5
+    }
+  ]
+}

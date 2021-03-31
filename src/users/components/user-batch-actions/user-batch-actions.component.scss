@@ -1,0 +1,10 @@
+.user-batch-actions {
+    border-top: 1px solid #222;
+    padding: 10px 0;
+    &__btns {
+        display: flex;
+        .btn {
+            margin-right: 10px;
+        }
+    }  
+}

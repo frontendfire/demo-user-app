@@ -1,0 +1,16 @@
+:host {
+  display: block;
+}
+.users {
+  position: relative;
+  &__new {
+    margin-bottom: 10px;
+  }
+  &__batch-actions {
+    padding: 10px 0;
+  }
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
